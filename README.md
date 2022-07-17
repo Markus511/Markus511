@@ -1,7 +1,7 @@
-### Hi there 👋, Markus Ryynänen
-#### Information technology student
+## Hi there 👋, Markus Ryynänen
+###Information technology student
 
-Skills: C# / Java / HTML / CSS / SQL
+#### Skills: C# / Java / HTML / CSS / SQL
 
 - 🌱 I’m currently learning JavaScript 
 
