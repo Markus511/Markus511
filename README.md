@@ -1,5 +1,5 @@
 ## Hi there 👋, Markus Ryynänen
-###Information technology student
+### Information technology student
 
 #### Skills: C# / Java / HTML / CSS / SQL
 
