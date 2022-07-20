@@ -1,4 +1,4 @@
-## Hi there 👋, Markus Ryynänen
+## Hi there 👋, my name is Markus Ryynänen
 ### Information technology student
 
 #### Skills: C# / Java / HTML / CSS / SQL
