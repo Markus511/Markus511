@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Markus Ryynänen
 
-Experience: C# / JavaScript / HTML / CSS / MySQL
+Experience: JavaScript / HTML / CSS / React.js / Node.js / C# / MySQL
 
 - 🌱 I’m currently learning Web development 
 - 📫 How to reach me: markus.ryynanen@edu.savonia.fi 
