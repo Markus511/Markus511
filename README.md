@@ -2,7 +2,8 @@
 
 Experience: **JavaScript** / **HTML** / **CSS** / **React.js** / React Native / **Node.js** / C# / MySQL / MongoDB
 
-- 🌱 I’m currently learning mobile development 
+- 🌱 I’m currently learning mobile development
+- 💻 I’m currently working on my own mobile app (trainingApp). 
 - 📫 How to reach me: markus.ryynanen@edu.savonia.fi 
 
 
