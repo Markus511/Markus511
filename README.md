@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Markus Ryynänen
 
-Skills: **JavaScript** / **HTML** / **CSS** / **React.js** / React Native / **Node.js** / C# / SQL / MongoDB
+Skills: **JavaScript** / **HTML** / **CSS** / **SASS** / **React.js** / React Native / **Node.js** / C# / SQL / MongoDB
  
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning .NET programming
 - 📫 How to reach me: markus.ryynanen@edu.savonia.fi 
 
 
