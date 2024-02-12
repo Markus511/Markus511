@@ -2,7 +2,7 @@
 
 Skills: **JavaScript** / **HTML** / **CSS** / **SASS** / **React.js** / React Native / **Node.js** / C# / SQL / MongoDB
  
-- 🌱 I’m currently learning .NET programming
+- 🌱 I’m currently learning .NET and Next.js technologies
 - 📫 How to reach me: markus.ryynanen@edu.savonia.fi 
 
 
